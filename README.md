@@ -3,9 +3,7 @@
 ¡Bienvenido a mi perfil!  
 Aquí encontrarás proyectos relacionados con análisis de datos, visualización y desarrollo.
 
-
 ## Languages and Tools
-
 
 <table>
   <tr>
@@ -14,7 +12,7 @@ Aquí encontrarás proyectos relacionados con análisis de datos, visualización
       <sub><b>Power BI</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" alt="Tableau"/><br>
+      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" alt="Tableau"/><br>
       <sub><b>Tableau</b></sub>
     </td>
     <td align="center" width="96">

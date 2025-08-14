@@ -7,16 +7,21 @@ Aquí encontrarás proyectos relacionados con análisis de datos, visualización
 ## Languages and Tools
 
 <!-- Power BI -->
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://simpleicons.org/icons/powerbi.svg" alt="Power BI" height="30" style="margin-right:10px;"/>
 <!-- Tableau -->
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-<!-- Looker Studio (antes Data Studio, no tiene logo oficial en Shields.io, uso SVG de Simple Icons) -->
-<img src="https://simpleicons.org/icons/looker.svg" alt="Looker Studio" height="28" style="margin-right:10px;"/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://simpleicons.org/icons/tableau.svg" alt="Tableau" height="30" style="margin-right:10px;"/>
+<!-- Looker Studio -->
+<img src="https://simpleicons.org/icons/looker.svg" alt="Looker Studio" height="30" style="margin-right:10px;"/>
+<!-- MySQL -->
+<img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" height="30" style="margin-right:10px;"/>
+<!-- HTML5 -->
+<img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="30" style="margin-right:10px;"/>
+<!-- CSS3 -->
+<img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="30" style="margin-right:10px;"/>
+<!-- Java -->
+<img src="https://simpleicons.org/icons/java.svg" alt="Java" height="30" style="margin-right:10px;"/>
+<!-- Python -->
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" height="30" style="margin-right:10px;"/>
 
 
 ## Contacto

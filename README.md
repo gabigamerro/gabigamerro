@@ -8,11 +8,11 @@ Aquí encontrarás proyectos relacionados con análisis de datos, visualización
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="40" alt="Power BI"/><br>
+     <img src="https://github.com/tu-usuario/assets/blob/main/powerbi.png?raw=true" width="40" alt="Power BI"/><br>
       <sub><b>Power BI</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" alt="Tableau"/><br>
+      <img src="https://github.com/tu-usuario/assets/blob/main/tableau.png?raw=true" width="40" alt="Tableau"/><br>
       <sub><b>Tableau</b></sub>
     </td>
     <td align="center" width="96">
